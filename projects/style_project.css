@@ -1,0 +1,28 @@
+.card_project{
+      margin-top: 50px;
+      margin-left: 30px;
+      box-shadow:   black;
+}
+
+.card_project .img_project{
+      height: 200px;
+}
+
+
+.card_project .img_project img{
+      width: 100%;
+      height: 100%;
+}
+
+.card_project .info_project h2{
+      font-size: 16px;
+}
+
+.card_project .info_project p{
+      font-size: 16px;
+}
+
+.card_project .info_project a{
+      font-size: 22px ;
+      margin-top: 20px;
+}
